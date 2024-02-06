@@ -9,6 +9,5 @@ What you can find here:
 **F-map Generation (glm_analysis_2):** A continuation of the GLM analysis, focusing on building a contrast matrix to derive the F-map. The F-map provides insights into the statistical significance of the observed changes in brain structure.
 
 **Synthetic data generation (syntheticdata):** To enhance our analysis and test the efficacy of combatting site effects, we have introduced synthetic data generation. This includes:
-
 Site Effects Introduction: Synthetic data where site-specific effects are deliberately introduced to test the harmonization process.
 Age to Volume Relation: Addition of synthetic data that simulates the relationship between age and brain volume, aiding in the analysis of age-related volumetric changes.
